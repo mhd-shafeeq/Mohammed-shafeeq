@@ -15,15 +15,18 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 ## 📂 Projects
 | Project | Description | Tech Stack |
 |---|---|---|
-| PDF Chatbot | AI chatbot to answer queries from PDFs | Python, LangChain, FAISS, Streamlit |
-| Resume Analyzer | NLP app to match skills to job descriptions | Python, spaCy, Streamlit |
+| 🤖 PDF Chatbot | AI chatbot to answer queries from PDFs | Python, LangChain, FAISS, Streamlit |
+| 📄 Resume Analyzer | NLP app to match skills to job descriptions | Python, spaCy, Streamlit |
 
 ## 📊 GitHub Stats
-![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhd-shafeeq&show_icons=true&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=mhd-shafeeq&color=blue)
 
 ## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-shafeeq-041999336?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-shafeeq-041999336)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mhdshafeeq120@gmail.com)
